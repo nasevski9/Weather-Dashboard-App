@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+  }
+  
+body {
+    background: rgb(5,162,194);
+    background: radial-gradient(circle, rgba(5,162,194,1) 0%, rgba(5,10,131,1) 50%, rgba(2,6,25,1) 100%);
+}
+#top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1 {
+    font-size: 50px;
+    font-weight: 50px;
+    font-style: Gotham, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+.form-label {
+    font-size: 25px;
+    font-weight: bolder;
+}
+i {
+    font-size: 50px !important;
+    margin: 30px !important;
+}
+#forecast {
+    color: aliceblue;
+    background: rgb(28,38,99);
+    background: radial-gradient(circle, rgba(28,38,99,1) 0%, rgba(15,15,77,1) 70%, rgba(9,9,32,1) 90%);
+}
+#dashboard {
+    color: aliceblue;
+    background-color: rgba(28, 38, 99, 0.5); 
+}
