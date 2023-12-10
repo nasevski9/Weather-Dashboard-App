@@ -6,7 +6,7 @@ Screenshot of the app:
 
 ![weathe app scr](https://github.com/nasevski9/Weather-Dashboard-App/assets/140076217/05754bd2-a5d3-4cb1-94b9-390002e3e6fd)
 
-Link to the application:
+Link to the application: https://nasevski9.github.io/Weather-Dashboard-App/
 
 
 
